@@ -39,7 +39,7 @@ Current-limiting resistors were used on sensor and LCD backlight lines to protec
 
 **Physical build:**
 
-![Architecture A physical prototype](images/architecture-a-physical/part_a.jpg)
+![Architecture A physical prototype](images/architecture-a-physical/part-a.jpg)
 
 
 
